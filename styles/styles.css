@@ -1,0 +1,9 @@
+body {
+    background-color: lightgoldenrodyellow;
+}
+
+.error-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
